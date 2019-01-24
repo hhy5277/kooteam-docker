@@ -4,7 +4,7 @@ The docker image for kooteam.
 # usage
 
 Step 1:    
-build: `docker build -t huangxinping/kooteam .`
+build: `docker build -t huangxinping/kooteam .`    
 run: `docker run -d -p 7053:7053 --name kooteam huangxinping/kooteam`
 
 Step 2:    
